@@ -1,0 +1,8 @@
+books/book1/*
+books/book2/*
+books/rdf-files.tar.bz2
+books/rdf-files.tar.zip
+node_modules/
+.env
+all_books.json
+.nyc_output
